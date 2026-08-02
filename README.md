@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=808080&center=true&vCenter=true&repeat=true&width=120&height=20&lines=✦;✧;⋆;✦;✧;⋆" alt="Stars"/>
+<p>✦</p>
 
 <h1>Javier Martín</h1>
 
 <h3>Data & AI Engineer based in Madrid</h3>
 
-<p>
-Reinforcement Learning · Multi-Agent Systems · ML Systems · Planning · Generative AI
-</p>
+<p>Building intelligent systems that <strong>adapt</strong>.</p>
+
+<br>
+
+<img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=808080&center=true&vCenter=true&width=650&lines=Researching+adaptation+in+multi-agent+systems.;Building+efficient+machine+learning+systems.;Exploring+planning,+reasoning+and+generalization."
+    alt="Typing SVG"
+/>
 
 </div>
 
@@ -18,41 +23,79 @@ Reinforcement Learning · Multi-Agent Systems · ML Systems · Planning · Gener
 
 I'm interested in building machine learning systems that are **adaptive, efficient, and interpretable**.
 
+Currently exploring:
+
+- Reinforcement Learning
+- Multi-Agent Systems
+- Machine Learning Systems
+- Planning & Search
+- Generative AI
+- Large-Scale Optimization
+
 ---
 
 ## Tech Stack
 
 <div align="center">
 
-**Languages**  
+<table>
+<tr>
+<td valign="top" width="42%">
+
+### Languages
+
 Python · C++ · Java · R · MATLAB
 
-<br><br>
+</td>
 
-**AI & ML**  
+<td valign="top" width="42%">
+
+### AI & ML
+
 PyTorch · JAX · TensorFlow · Scikit-learn · OpenCV
 
-<br><br>
+</td>
+</tr>
 
-**Data Engineering**  
+<tr>
+<td valign="top">
+
+### Data Engineering
+
 Spark · Ray · Pandas · NumPy · SQL
 
-<br><br>
+</td>
 
-**Infrastructure**  
+<td valign="top">
+
+### Infrastructure
+
 Linux · Docker · Git · MLflow · Weights & Biases
 
-<br><br>
+</td>
+</tr>
 
-**Databases**  
+<tr>
+<td valign="top">
+
+### Databases
+
 PostgreSQL · MySQL · MongoDB · Neo4j
 
-<br><br>
+</td>
 
-**Other**  
+<td valign="top">
+
+### Other
+
 LaTeX · Blender · Photoshop · Premiere Pro
 
+</td>
+</tr>
+</table>
+
 </div>
+
 
 ---
 
@@ -63,3 +106,10 @@ LaTeX · Blender · Photoshop · Premiere Pro
 <a href="mailto:martinfuentesjavier@gmail.com">Email</a>
 
 </div>
+
+
+do the following changes:
+
+- make an animation with stars instead of having just one single star
+- after describing what I am, put immediately my current interests in a more concise way instead of the animated text nor Building intelligent systems that adapt.
+- I want the table to be inline instead of a table
