@@ -1,14 +1,17 @@
+
 <div align="center">
+
+# ✦
 
 # Javier Martín
 
-Building intelligent systems that **adapt**.
+### Data & AI Engineer based in Madrid
 
-Data Engineering & AI • Reinforcement Learning • ML Systems
+Building intelligent systems that **adapt**.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=777777&center=true&vCenter=true&width=550&lines=Researching+adaptation+in+multi-agent+systems;Building+efficient+machine+learning+systems;Exploring+planning,+reasoning+and+generalization" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=777777&center=true&vCenter=true&width=560&lines=Researching+adaptation+in+multi-agent+systems;Building+efficient+machine+learning+systems;Exploring+planning,+reasoning+and+generalization" />
 
 </div>
 
@@ -16,35 +19,55 @@ Data Engineering & AI • Reinforcement Learning • ML Systems
 
 ### About
 
-I'm interested in making machine learning systems **more adaptive, efficient and interpretable**.
+I'm interested in building machine learning systems that are **adaptive, efficient, and interpretable**.
 
-Currently exploring:
+My current interests include:
 
-- multi-agent reinforcement learning
-- planning & search
-- ML systems
-- generative AI
-- scalable optimization
-
----
-
-### Selected work
-
-- Adaptive reinforcement learning research
-- Aircraft taxi-out prediction
-- Transformer language model from scratch
-- Language-based AI assistant
-- Distributed data processing with Spark
+- Reinforcement Learning
+- Machine Learning Systems
+- Generative AI
+- Planning & Search
+- Large-Scale Optimization
 
 ---
 
-### Stack
+### Tech Stack
 
-```text
-Python • C++ • JAX • PyTorch • TensorFlow
-Spark • Ray • OpenCV • SQL
-Git • Linux • Docker
-```
+<table>
+<tr>
+<td valign="top">
+
+**Languages**
+
+Python · C++ · Java · R · MATLAB
+
+</td>
+<td valign="top">
+
+**AI & Data**
+
+PyTorch · JAX · TensorFlow · Scikit-learn · Spark · Ray · OpenCV
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**Infrastructure**
+
+Linux · Git · Docker · MLflow · Weights & Biases
+
+</td>
+<td valign="top">
+
+**Data**
+
+PostgreSQL · MySQL · MongoDB · Neo4j
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,6 +75,6 @@ Git • Linux • Docker
 
 <div align="center">
 
-[LinkedIn](YOUR_LINKEDIN) · [Website](YOUR_WEBSITE) · [Scholar](YOUR_SCHOLAR)
+[LinkedIn](YOUR_LINKEDIN) • [Website](YOUR_WEBSITE) • [Google Scholar](YOUR_SCHOLAR)
 
 </div>
