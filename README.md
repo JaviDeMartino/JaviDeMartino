@@ -6,7 +6,7 @@
 
 <h3>Data & AI Engineer based in Madrid</h3>
 
-<p>Building intelligent systems that <strong>adapt</strong>.</p>
+<p><strong>Building intelligent systems that adapt.</strong></p>
 
 <br>
 
@@ -21,76 +21,41 @@
 
 ## About
 
-I'm interested in building machine learning systems that are **adaptive, efficient, and interpretable**.
+```text
+Interested in machine learning systems that can learn,
+adapt and generalize beyond the environments they were
+trained on.
+```
 
-Currently exploring:
+<br>
 
-- Reinforcement Learning
-- Multi-Agent Systems
-- Machine Learning Systems
-- Planning & Search
-- Generative AI
-- Large-Scale Optimization
+<div align="center">
+
+| **Currently exploring** | **Interested in** |
+|:------------------------:|:-----------------:|
+| Reinforcement Learning | Generative AI |
+| Multi-Agent Systems | ML Systems |
+| Planning & Search | Optimization |
+
+</div>
 
 ---
 
-## Tech Stack
+## Tech
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### Languages
+| Languages | AI / ML | Data | Infrastructure |
+|:----------:|:-------:|:----:|:--------------:|
+| Python | PyTorch | Spark | Linux |
+| C++ | JAX | Pandas | Docker |
+| Java | TensorFlow | NumPy | Git |
+| R | Scikit-learn | SQL | MLflow |
+| MATLAB | OpenCV | PostgreSQL | Weights & Biases |
+|  |  | MongoDB |  |
+|  |  | Neo4j |  |
 
-Python · C++ · Java · R · MATLAB
-
-</td>
-
-<td valign="top" width="50%">
-
-### AI & ML
-
-PyTorch · JAX · TensorFlow · Scikit-learn · OpenCV
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Data Engineering
-
-Spark · Ray · Pandas · NumPy · SQL
-
-</td>
-
-<td valign="top">
-
-### Infrastructure
-
-Linux · Docker · Git · MLflow · Weights & Biases
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Databases
-
-PostgreSQL · MySQL · MongoDB · Neo4j
-
-</td>
-
-<td valign="top">
-
-### Other
-
-LaTeX · Blender · Photoshop · Premiere Pro
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
