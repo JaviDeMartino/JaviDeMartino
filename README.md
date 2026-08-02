@@ -36,9 +36,11 @@ Currently exploring:
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="42%">
 
 ### Languages
 
@@ -46,7 +48,7 @@ Python · C++ · Java · R · MATLAB
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="42%">
 
 ### AI & ML
 
@@ -83,6 +85,16 @@ PostgreSQL · MySQL · MongoDB · Neo4j
 </td>
 
 <td valign="top">
+
+### Other
+
+LaTeX · Blender · Photoshop · Premiere Pro
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Other
 
