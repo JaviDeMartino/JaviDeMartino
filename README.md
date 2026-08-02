@@ -14,12 +14,20 @@
 
 ---
 
+<div align="center">
+
 I'm interested in building **adaptive, efficient and interpretable** machine learning systems.
 
-**Interests**
+<br>
+
+**Research Interests**
 
 `Reinforcement Learning` · `Multi-Agent Systems` · `ML Systems` · `Planning` · `Generative AI` · `Optimization`
+
+<br>
 
 **Tech**
 
 `Python` · `C++` · `Java` · `PyTorch` · `JAX` · `TensorFlow` · `Spark` · `Ray` · `Docker` · `Linux` · `PostgreSQL` · `MongoDB`
+
+</div>
