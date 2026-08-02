@@ -96,14 +96,6 @@ LaTeX · Blender · Photoshop · Premiere Pro
 
 </div>
 
-### Other
-
-LaTeX · Blender · Photoshop · Premiere Pro
-
-</td>
-</tr>
-</table>
-
 
 ---
 
