@@ -92,18 +92,14 @@ LaTeX · Blender · Photoshop · Premiere Pro
 </tr>
 </table>
 
+
 ---
 
 <div align="center">
 
-> *Research is engineering for ideas.*
-
-<br>
-
-<a href="YOUR_LINKEDIN">LinkedIn</a>
+<a href="https://linkedin.com/in/javier-mart%C3%ADn-fuentes-a3973b349">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_WEBSITE">Website</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_GOOGLE_SCHOLAR">Google Scholar</a>
+<a href="mailto:martinfuentesjavier@gmail.com">Email</a>
 
 </div>
+
