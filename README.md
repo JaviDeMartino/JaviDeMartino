@@ -1,19 +1,14 @@
 <div align="center">
 
-<p>✦</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1200&color=808080&center=true&vCenter=true&repeat=true&width=120&height=20&lines=✦;✧;⋆;✦;✧;⋆" alt="Stars"/>
 
 <h1>Javier Martín</h1>
 
 <h3>Data & AI Engineer based in Madrid</h3>
 
-<p>Building intelligent systems that <strong>adapt</strong>.</p>
-
-<br>
-
-<img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2500&color=808080&center=true&vCenter=true&width=650&lines=Researching+adaptation+in+multi-agent+systems.;Building+efficient+machine+learning+systems.;Exploring+planning,+reasoning+and+generalization."
-    alt="Typing SVG"
-/>
+<p>
+Reinforcement Learning · Multi-Agent Systems · ML Systems · Planning · Generative AI
+</p>
 
 </div>
 
@@ -23,79 +18,41 @@
 
 I'm interested in building machine learning systems that are **adaptive, efficient, and interpretable**.
 
-Currently exploring:
-
-- Reinforcement Learning
-- Multi-Agent Systems
-- Machine Learning Systems
-- Planning & Search
-- Generative AI
-- Large-Scale Optimization
-
 ---
 
 ## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="42%">
-
-### Languages
-
+**Languages**  
 Python · C++ · Java · R · MATLAB
 
-</td>
+<br><br>
 
-<td valign="top" width="42%">
-
-### AI & ML
-
+**AI & ML**  
 PyTorch · JAX · TensorFlow · Scikit-learn · OpenCV
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td valign="top">
-
-### Data Engineering
-
+**Data Engineering**  
 Spark · Ray · Pandas · NumPy · SQL
 
-</td>
+<br><br>
 
-<td valign="top">
-
-### Infrastructure
-
+**Infrastructure**  
 Linux · Docker · Git · MLflow · Weights & Biases
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td valign="top">
-
-### Databases
-
+**Databases**  
 PostgreSQL · MySQL · MongoDB · Neo4j
 
-</td>
+<br><br>
 
-<td valign="top">
-
-### Other
-
+**Other**  
 LaTeX · Blender · Photoshop · Premiere Pro
 
-</td>
-</tr>
-</table>
-
 </div>
-
 
 ---
 
@@ -106,4 +63,3 @@ LaTeX · Blender · Photoshop · Premiere Pro
 <a href="mailto:martinfuentesjavier@gmail.com">Email</a>
 
 </div>
-
